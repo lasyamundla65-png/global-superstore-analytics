@@ -2,4 +2,5 @@
 __pycache__/
 *.pyc
 app_backup.py
+app_old.py
 .streamlit/secrets.toml
